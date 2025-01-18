@@ -11,7 +11,7 @@ Technologies Used
 Frontend: HTML, CSS, JavaScript, and a JavaScript framework (e.g., React or Angular)
 Backend: Node.js, Express.js, and a database management system (e.g., MySQL or MongoDB)
 Getting Started
-Clone the repository: git clone https://github.com/your-username/students-attendance-management-system.git
+Clone the repository: git clone https://github.com/agunechemba/students-attendance-management-system
 Install dependencies: npm install
 Create a database and configure the backend to connect to it
 Start the application: npm start
